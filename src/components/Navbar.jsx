@@ -21,7 +21,7 @@ export default function Navbar() {
         {/* MENU DESKTOP */}
         <ul className="hidden md:flex items-center gap-8 text-sm font-medium">
           <li>
-            <a href="#features" className="text-[rgba(240,237,228,0.55)] hover:text-[#f0ede4] transition-colors duration-200">
+            <a href="#Caractéristiques" className="text-[rgba(240,237,228,0.55)] hover:text-[#f0ede4] transition-colors duration-200">
               Fonctionnalités
             </a>
           </li>

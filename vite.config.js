@@ -7,5 +7,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: '/coran/', // <--- On le prépare dès maintenant !
+  base: '/nourecoran/', // <--- On le prépare dès maintenant !
 })

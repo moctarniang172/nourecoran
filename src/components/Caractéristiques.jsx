@@ -34,7 +34,7 @@ function Caractéristiques() {
 
   return (
     <>
-    <section id="features" className="relative overflow-hidden px-10 py-20 bg-[#0a2218]">
+    <section id="Caractéristiques" className="relative overflow-hidden px-10 py-20 bg-[#0a2218]">
       {/* Glow background */}
       <div className="absolute inset-0 pointer-events-none bg-[radial-gradient(ellipse_at_20%_50%,rgba(29,158,117,0.08),transparent_60%)]" />
 
